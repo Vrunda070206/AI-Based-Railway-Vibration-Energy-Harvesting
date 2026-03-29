@@ -1,7 +1,5 @@
 
-  # Design Request
-
-  This is a code bundle for Design Request. The original project is available at https://www.figma.com/design/MKMMiyrI7otYp6PidlmrFz/Design-Request.
+  # AI-Based railway energy monitering system
 
   ## Running the code
 
